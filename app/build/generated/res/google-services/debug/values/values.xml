@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">111318034517-kkpnkrdjaerqhnrcn9ku3kkof2ppsolt.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://bemolunique-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">111318034517</string>
+    <string name="google_api_key" translatable="false">AIzaSyCTpAJEcgA3zvssUjY2DDLacqbdO5AcZ04</string>
+    <string name="google_app_id" translatable="false">1:111318034517:android:8a2e3cac6dca7d512fccdc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCTpAJEcgA3zvssUjY2DDLacqbdO5AcZ04</string>
+    <string name="google_storage_bucket" translatable="false">bemolunique.appspot.com</string>
+    <string name="project_id" translatable="false">bemolunique</string>
+</resources>
